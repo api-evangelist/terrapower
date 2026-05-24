@@ -1,0 +1,88 @@
+aid: terrapower
+name: TerraPower
+description: >-
+  TerraPower is a Bellevue, Washington-based advanced nuclear innovation
+  company founded in 2006 with Bill Gates as founder and chair. Its flagship
+  product is the Natrium reactor, a 345 MWe sodium-cooled fast reactor
+  co-developed with GE Vernova Hitachi Nuclear Energy and paired with an
+  integrated molten salt energy storage system that can boost output to
+  500 MWe for up to five-plus hours to follow renewable grid load.
+  TerraPower broke ground in 2024 on the first commercial Natrium demonstration
+  plant in Kemmerer, Wyoming under the U.S. Department of Energy's Advanced
+  Reactor Demonstration Program (ARDP), a 50/50 cost-share with up to
+  $2 billion in federal funding. The company's second business line,
+  TerraPower Isotopes (TPI), produces research-grade actinium-225 — an
+  alpha-emitting radionuclide used in targeted alpha therapy for cancer —
+  from DOE thorium-229 stockpiles in partnership with Isotek, with a lab in
+  Everett WA and a cGMP manufacturing facility under construction in
+  Philadelphia's Bellwether District. TerraPower has no commercial developer
+  API, SDK, or public partner integration platform; its revenue model is
+  reactor sales, plant operation, and isotope supply contracts with
+  pharmaceutical partners including Aktis Oncology, Advanced Accelerator
+  Applications, Cardinal Health, and Point Biopharma. The company does
+  maintain a meaningful open-source nuclear engineering footprint on GitHub
+  — most notably ARMI (Advanced Reactor Modeling Interface), an Apache 2.0
+  Python framework for nuclear reactor design and analysis automation used
+  internally to design Natrium and made available to the wider reactor
+  engineering community.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Nuclear
+  - Advanced Nuclear
+  - Reactors
+  - Sodium-Cooled Fast Reactor
+  - Natrium
+  - Small Modular Reactors
+  - Energy Storage
+  - Molten Salt
+  - Clean Energy
+  - Medical Isotopes
+  - Actinium-225
+  - Targeted Alpha Therapy
+  - Cancer Treatment
+  - Reactor Design
+  - Open Source
+url: https://raw.githubusercontent.com/api-evangelist/terrapower/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.terrapower.com
+  - type: Natrium
+    url: https://www.terrapower.com/natrium/
+  - type: Isotopes
+    url: https://www.terrapower.com/isotopes/
+  - type: Wyoming
+    url: https://www.terrapower.com/wyoming/
+  - type: NatriumFAQ
+    url: https://www.terrapower.com/natrium-faq/
+  - type: Future
+    url: https://www.terrapower.com/future/
+  - type: News
+    url: https://www.terrapower.com/news/
+  - type: Suppliers
+    url: https://www.terrapower.com/suppliers/
+  - type: Careers
+    url: https://www.terrapower.com/careers/
+  - type: Contact
+    url: https://www.terrapower.com/contact/
+  - type: GitHub
+    url: https://github.com/terrapower
+  - type: ARMI
+    url: https://github.com/terrapower/armi
+  - type: ARMIDocumentation
+    url: https://terrapower.github.io/armi/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/terrapower
+  - type: Twitter
+    url: https://twitter.com/TerraPower
+  - type: YouTube
+    url: https://www.youtube.com/@TerraPowerLLC
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
