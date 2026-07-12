@@ -51,6 +51,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/terrapower-domain-security.yml
   - type: Website
     url: https://www.terrapower.com
   - type: Natrium
@@ -83,6 +85,8 @@ common:
     url: https://twitter.com/TerraPower
   - type: YouTube
     url: https://www.youtube.com/@TerraPowerLLC
+  - type: Blog
+    url: https://www.terrapower.com/news/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
