@@ -6,8 +6,7 @@
       "feed_url": "https://www.terrapower.com/news/",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     },
     {
       "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQxj8i4OYOxG-0ucZZujHqw",
@@ -24,6 +23,6 @@
       "method": "discovered"
     }
   ],
-  "fetched": "2026-08-15T12:11:08Z",
+  "fetched": "2026-08-22T20:20:02Z",
   "post_count": 20
 }
