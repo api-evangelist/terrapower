@@ -1,4 +1,4 @@
-# terrapower
+# TerraPower
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TerraPower — advanced nuclear company building the Natrium sodium-cooled fast reactor with molten salt storage in Kemmerer, WY (Bill Gates–founded, Bellevue WA)
+TerraPower is a Bellevue, Washington-based advanced nuclear innovation company founded in 2006 with Bill Gates as founder and chair. Its flagship product is the Natrium reactor, a 345 MWe sodium-cooled fast reactor co-developed with GE Vernova Hitachi Nuclear Energy and paired with an integrated molten salt energy storage system that can boost output to 500 MWe for up to five-plus hours to follow renewable grid load. TerraPower broke ground in 2024 on the first commercial Natrium demonstration plant in Kemmerer, Wyoming under the U.S. Department of Energy's Advanced Reactor Demonstration Program (ARDP), a 50/50 cost-share with up to $2 billion in federal funding. The company's second business line, TerraPower Isotopes (TPI), produces research-grade actinium-225 — an alpha-emitting radionuclide used in targeted alpha therapy for cancer — from DOE thorium-229 stockpiles in partnership with Isotek, with a lab in Everett WA and a cGMP manufacturing facility under construction in Philadelphia's Bellwether District. TerraPower has no commercial developer API, SDK, or public partner integration platform; its revenue model is reactor sales, plant operation, and isotope supply contracts with pharmaceutical partners including Aktis Oncology, Advanced Accelerator Applications, Cardinal Health, and Point Biopharma. The company does maintain a meaningful open-source nuclear engineering footprint on GitHub — most notably ARMI (Advanced Reactor Modeling Interface), an Apache 2.0 Python framework for nuclear reactor design and analysis automation used internally to design Natrium and made available to the wider reactor engineering community.
+
+**Areas:** Nuclear · Advanced Nuclear · Reactors · Sodium-Cooled Fast Reactor · Natrium · Small Modular Reactor · Energy Storage · Molten Salt · Clean Energy · Medical Isotopes · Actinium-225 · Targeted Alpha Therapy
+
+## TerraPower on APIs.io
+
+Everything profiled for TerraPower is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/terrapower/](https://apis.io/providers/terrapower/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Terrapower Domain Security](https://apis.io/security/terrapower/terrapower-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.terrapower.com)
+- [Blog](https://www.terrapower.com/news/)
+
+## API Evangelist rating
+
+**Kin Score 4.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/terrapower/](https://apis.io/providers/terrapower/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for TerraPower: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/terrapower/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
